@@ -2,8 +2,6 @@
 
 This Repository Contains Practice Problems of Javascript
 
-Sure, I can help with that! Here are the practice problems rewritten as
-
 1. Find the highest number among three numbers.
 2. Determine if a year is a leap year.
 3. Check if a given alphabet is a vowel or consonant.
