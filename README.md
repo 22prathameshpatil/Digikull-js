@@ -45,3 +45,6 @@ This Repository Contains Practice Problems of Javascript
 
 22. Check if a number is prime or not using functions.
 23. Generate the Fibonacci series.
+24. Check if two given strings are anagrams of each other or not.
+25. Write a JavaScript program to remove duplicate elements from the array.
+26. JavaScript program to flatten this nested array into a single-dimensional array.
